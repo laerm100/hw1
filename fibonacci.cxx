@@ -24,4 +24,4 @@ f1=1;
 	}
     cout<<"Das Ergebnis lautet: fi=" <<fi<< endl;
     return 0;
-    }
+}
